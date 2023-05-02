@@ -53,6 +53,7 @@ Automated Plant Disease Classification and Color Extraction using Machine Learni
    you will get the publishing message, predicting message and color_extracting message.
    ![Publisher terminal](https://github.com/Dherya27/Robotics-AI-in-Agriculture-Docker-ROS2-/blob/main/Publisher.png)
    ![Subscriber_1 terminal](https://github.com/Dherya27/Robotics-AI-in-Agriculture-Docker-ROS2-/blob/main/Subscriber_1.png)
+   ![Subscriber_2 terminal](https://github.com/Dherya27/Robotics-AI-in-Agriculture-Docker-ROS2-/blob/main/Subscriber_2.png)
 
 ### Feel free to contact me if you find any problem:
      dheryarobotics27@gmail.com
