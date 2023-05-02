@@ -1,7 +1,7 @@
 # Robotics-AI-in-Agriculture-Docker-ROS2-
 Automated Plant Disease Classification and Color Extraction using Machine Learning Models in ROS2 Docker Environment.
 
-![Overall Project Architecture](https://github.com/Dherya27/Robotics-AI-in-Agriculture-Docker-ROS2-/blob/main/Project%20Extract.key)
+![Overall Project Architecture](https://github.com/Dherya27/Robotics-AI-in-Agriculture-Docker-ROS2-/blob/main/Overall_Project_Architecture.001.jpeg)
 
 ### Google Colab link where I trained my model: 
 
