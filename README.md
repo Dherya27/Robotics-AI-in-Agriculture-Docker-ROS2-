@@ -51,6 +51,7 @@ Automated Plant Disease Classification and Color Extraction using Machine Learni
    3. third terminal : ros2 run plant_disease subscriber_2 
 
    you will get the publishing message, predicting message and color_extracting message.
+   ![Publisher terminal](https://github.com/Dherya27/Robotics-AI-in-Agriculture-Docker-ROS2-/blob/main/Publisher.png)
 
 ### Feel free to contact me if you find any problem:
      dheryarobotics27@gmail.com
